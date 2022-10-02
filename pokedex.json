@@ -1,0 +1,227 @@
+[
+  {
+    "Name": "Bulbasaur",
+    "Region": "Kanto",
+    "Categoria": "Semilla",
+    "Detalles": "Una rara semilla fue plantada en su espalda al nacer. La planta brota y crece con este Pokémon.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/01.png",
+    
+  },
+
+  {
+    "Name": "Ivisaur",
+    "Region": "Kanto",
+    "Categoria": "Semilla",
+    "Details": "Cuando el bulbo de su espalda crece, parece no poder ponerse de pie sobre sus patas traseras.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/02.png",
+    
+  },
+
+  {
+    "Name": "Venusaur",
+    "Region": "Kanto",
+    "Categoria": "Semilla",
+    "Details": "La planta florece cuando absorbe energía solar. Ésta le obliga a ponerse en busca de la luz solar.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/03.png",
+    
+  },
+
+  {
+    "Name": "Charmander",
+    "Region": "Kanto",
+    "Categoria": "Lagartija",
+    "Details": "Prefiere los sitios calientes. Dicen que cuando llueve sale vapor de la punta de su cola.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/04.png",
+    
+  },
+
+  {
+    "Name": "Charmeleon",
+    "Region": "Kanto",
+    "Categoria": "Llama",
+    "Details": "Cuando balancea su ardiente cola, eleva la temperatura a niveles muy altos.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/05.png",
+    
+  },
+
+  {
+    "Name": "Charizard",
+    "Region": "Kanto",
+    "Categoria": "Llama",
+    "Details": "Escupe fuego tan caliente que funde las rocas. Causa incendios forestales sin querer.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/06.png",
+    
+  },
+
+  {
+    "Name": "Squirtle",
+    "Region": "Kanto",
+    "Categoria": "Tortuguita",
+    "Details": "Tras nacer, su espalda se hincha y endurece como una concha. Echa potente espuma por la boca.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/07.png",
+    
+  },
+
+  {
+    "Name": "Wartortle",
+    "Region": "Kanto",
+    "Categoria": "Tortuga",
+    "Details": "Se oculta en el agua para cazar a sus presas. Al nadar rápidamente, mueve sus orejas para nivelarse.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/08.png",
+    
+  },
+
+  {
+    "Name": "Blastoise",
+    "Region": "Kanto",
+    "Categoria": "Armazón",
+    "Details": "Un brutal Pokémon con reactores de agua en su caparazón. Éstos son usados para rápidos placajes.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/09.png",
+    
+  },
+
+  {
+    "Name": "Caterpie",
+    "Region": "Kanto",
+    "Categoria": "Gusano",
+    "Details": "Sus cortas patas están recubiertas de ventosas que le permiten subir incansable por muros y cuestas.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/10.png",
+    
+  },
+
+  {
+    "Name": "Metapod",
+    "Region": "Kanto",
+    "Categoria": "Capullo",
+    "Details": "Este Pokémon es vulnerable al ataque cuando su concha es blanda, dejando expuesto su frágil cuerpo.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/11.png",
+    
+  },
+
+  {
+    "Name": "Butterfree",
+    "Region": "Kanto",
+    "Categoria": "Mariposa",
+    "Details": "En combate, aletea a gran velocidad para lanzar al aire sus tóxicos polvillos.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/12.png",
+    
+  },
+
+  {
+    "Name": "Weedle",
+    "Region": "Kanto",
+    "Categoria": "Oruga",
+    "Details": "Fácil de ver por los bosques comiendo hojas. Tiene un aguijón venenoso en la cabeza.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/13.png",
+    
+  },
+
+  {
+    "Name": "Kakuna",
+    "Region": "Kanto",
+    "Categoria": "Capullo",
+    "Details": "Casi incapaz de moverse, este Pokémon sólo puede endurecer su caparazón para protegerse.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/14.png",
+    
+  },
+
+  {
+    "Name": "Beedrill",
+    "Region": "Kanto",
+    "Categoria": "Abeja Veneno",
+    "Details": "Vuela muy deprisa y ataca con los venenosos y grandes aguijones de su cola y patas delanteras.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/15.png",
+    
+  },
+
+  {
+    "Name": "Pidgey",
+    "Region": "Kanto",
+    "Categoria": "Pajarito",
+    "Details": "Muy común en bosques y selvas. Aletea al nivel del suelo para levantar la gravilla.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/16.png",
+    
+  },
+
+  {
+    "Name": "Pidgeotto",
+    "Region": "Kanto",
+    "Categoria": "Pájaro",
+    "Details": "Muy protector de su amplio territorio, este Pokémon picoteará ferozmente a todo intruso.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/17.png",
+    
+  },
+
+  {
+    "Name": "Pidgeot",
+    "Region": "Kanto",
+    "Categoria": "Pájaro",
+    "Details": "Cuando caza, vuela muy deprisa a ras del agua, y sorprende a inocentes presas como Magikarp.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/18.png",
+    
+  },
+
+  {
+    "Name": "Rattata",
+    "Region": "Kanto",
+    "Categoria": "Ratón",
+    "Details": "Cuando ataca lo muerde todo. Pequeño y muy rápido, es muy fácil de ver en muchos sitios.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/19.png",
+    
+  },
+
+  {
+    "Name": "Raticate",
+    "Region": "Ratón",
+    "Categoria": "Semilla",
+    "Details": "Utiliza sus bigotes para equilibrarse. Parece que si son cortados va más despacio.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/20.png",
+    
+  },
+
+  {
+    "Name": "Spearow",
+    "Region": "Kanto",
+    "Categoria": "Pajarito",
+    "Details": "Come bichos en zona de hierba. Agita sus cortas alas muy rápido para mantenerse en el aire.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/21.png",
+    
+  },
+
+  {
+    "Name": "Fearow",
+    "Region": "Kanto",
+    "Categoria": "Pico",
+    "Details": "Con sus enormes y magníficas alas, puede seguir volando sin tener que aterrizar para descansar.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/22.png",
+    
+  },
+
+  {
+    "Name": "Ekans",
+    "Region": "Kanto",
+    "Categoria": "Serpiente",
+    "Details": "Es muy silencioso y sigiloso. Come huevos de pájaros como los de Pidgey y Spearow.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/23.png",
+    
+  },
+
+  {
+    "Name": "Arbok",
+    "Region": "Kanto",
+    "Categoria": "Cobra",
+    "Details": "Se dice que las feroces señales de alerta de su panza difieren de un área a otra.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/24.png",
+    
+  },
+
+  {
+    "Name": "Pikachu",
+    "Region": "Kanto",
+    "Categoria": "Ratón",
+    "Details": "Cuando varios de estos Pokémon se juntan, su energía puede causar fuertes tormentas.",
+    "Image": "https://raw.githubusercontent.com/AdrianAgundis/Pokedex/main/pokedex/25.png",
+    
+  }
+  
+]
